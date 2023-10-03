@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  margin: 40px !important;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
